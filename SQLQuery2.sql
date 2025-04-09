@@ -1,0 +1,2 @@
+﻿INSERT INTO tblStudent(Student_ID, Student_Name, Program, Email, Address, Contact)
+VALUES ('MCC2023-00797', 'Kaent Kraven L. Rosales', 'BSIT', 'rosaleskaentkraven@gmail.com', 'Brgy. Marfrancisco, Pin. Or. Mdo', '09301305040');
